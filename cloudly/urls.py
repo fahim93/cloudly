@@ -18,5 +18,6 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('api/oeta/', include('oeta.urls')),
     path('chaining/', include('smart_selects.urls')),
 ]
