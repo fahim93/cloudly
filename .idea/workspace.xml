@@ -3,15 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="95fec91e-235c-440d-8ea5-61c2a66d1a1d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudly/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/cloudly/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloudly/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/cloudly/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oeta/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/oeta/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oeta/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oeta/migrations/0002_choice_is_correct.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oeta/migrations/0003_auto_20201016_0343.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oeta/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/oeta/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oeta/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/oeta/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/oeta/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="98" column="62" lean-forward="true" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
+            <state relative-caret-position="160">
+              <caret line="77" column="17" lean-forward="true" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -388,8 +379,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oeta/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="98" column="62" lean-forward="true" selection-start-line="98" selection-start-column="62" selection-end-line="98" selection-end-column="62" />
+        <state relative-caret-position="160">
+          <caret line="77" column="17" lean-forward="true" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
