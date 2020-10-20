@@ -3,7 +3,4 @@
 ## Setup & Installation
 
 * Install the `requirements.txt` file
-* Configure Database
-* Database name `cloudly_db`
-* Database user `cloudly_user`
-* User password `cloudly_password`
+* Change Database configuration in `settings.py` file
